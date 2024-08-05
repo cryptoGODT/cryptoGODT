@@ -15,6 +15,10 @@ I have a diverse range of experience in both the blockchain and software develop
 ![AirChains](https://github.com/user-attachments/assets/60ab87b0-29fe-4955-8333-d591ca506966)
 ![aY0Qhzjs_200x200](https://github.com/user-attachments/assets/71192b7f-df16-44af-85c5-f153cbc42e5e)
 
+- lava: lava@valoper1dtn6v9qyup0zggedqfmsengz450wtgd3p2da2t
+- AirChains: airvaloper1l2v62ugkqermxw9jqnwww4sleqkvyl8kpud3vm
+- Warden: wardenvaloper1775sjl2gj9ef30uqasuh4kr9akezj5j29632ha
+
 
 ### My Guides 💻
 - [DA-Node-Guide-0g-labs](https://github.com/cryptoGODT/DA-Node-Guide-0g-labs) 🔗
