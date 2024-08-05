@@ -37,7 +37,7 @@ I have a diverse range of experience in both the blockchain and software develop
 Feel free to reach out or connect with me through the following platforms:
 
 - [Discord](https://discord.com/users/846895989562146837) 🌟
-- [Twitter](https://x.com/Zinnislin1) 🐦
+- [Twitter](https://x.com/cryptoGODT) 🐦
 
 
 
