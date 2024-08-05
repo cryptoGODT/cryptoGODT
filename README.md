@@ -1,4 +1,4 @@
-![cryptoGOD-BG](https://github.com/user-attachments/assets/3f6a47eb-3e5b-4462-8b33-94901f6e2fca)
+<p align=center><img src="https://github.com/user-attachments/assets/3f6a47eb-3e5b-4462-8b33-94901f6e2fca"></p>
 
 # About Me 👋
 
