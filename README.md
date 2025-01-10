@@ -23,6 +23,7 @@ I have a diverse range of experience in both the blockchain and software develop
 
 ### My Guides 💻
 - [Fleek-sdk-guide](https://github.com/cryptoGODT/fleek-sdk-guide) 🔗
+- [Ojo-Node](https://github.com/cryptoGODT/ojo-node) 🔗
 - [DA-Node-Guide-0g-labs](https://github.com/cryptoGODT/DA-Node-Guide-0g-labs) 🔗
 - [AirChains-Node-Guide](https://github.com/cryptoGODT/AirChains-Node-Guide) 🔗
 - [Warden-Protocol-Node-Guide](https://github.com/cryptoGODT/Warden-Protocol-Node-Guide) 🔗
